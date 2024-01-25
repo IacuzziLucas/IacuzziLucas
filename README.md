@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://lucasiacuzzidev.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **FullStack development**
+- 🌱 I’m currently learning **React.Js - FullStack development**
 
 - 👯 I’m looking to collaborate on **Any Project !**
 
