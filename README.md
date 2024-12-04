@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React.Js - FullStack development**
 
-- 👯 I’m looking to collaborate on **Any Project !**
-
 - 👨‍💻 All of my projects are available at [https://lucasiacuzzidev.github.io/Portfolio/](https://lucasiacuzzidev.github.io/Portfolio/)
 
 - 📫 How to reach me **Iacuzzi.lucas.na@gmail.com**
