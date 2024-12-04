@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Iacuzzi</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 
-- 🔭 I’m currently working on [Personal Portfolio](https://lucasiacuzzidev.github.io/Portfolio/)
+- 🔭 I’m currently working on [SearchRebel]
 
 - 🌱 I’m currently learning **React.Js - FullStack development**
 
