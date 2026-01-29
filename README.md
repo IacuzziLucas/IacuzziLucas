@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **React.Js - FullStack development**
 
-- 👨‍💻 All of my projects are available at [https://iacuzzilucas.github.io/Portfolio/]
-
-- 📫 How to reach me **Iacuzzi.lucas.na@gmail.com**
+- 📫 How to reach me **Iacuzzi.lucas.na@gmail.com || https://iacuzzilucas.vercel.app/ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
